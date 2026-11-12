@@ -1,0 +1,44 @@
+{
+  "wall": [
+    {
+      "title": "Dragon",
+      "poster": "https://raw.githubusercontent.com/linor5757/getout/main/public/logo/dragon.webp"
+    },
+    {
+      "title": "Kill Bill",
+      "poster": "https://raw.githubusercontent.com/linor5757/getout/main/public/logo/killbill.webp"
+    },
+    {
+      "title": "Night",
+      "poster": "https://raw.githubusercontent.com/linor5757/getout/main/public/logo/night.webp"
+    },
+    {
+      "title": "Span1",
+      "poster": "https://raw.githubusercontent.com/linor5757/getout/main/public/logo/span1.webp"
+    },
+    {
+      "title": "Span2",
+      "poster": "https://raw.githubusercontent.com/linor5757/getout/main/public/logo/span2.webp"
+    },
+    {
+      "title": "Span3",
+      "poster": "https://raw.githubusercontent.com/linor5757/getout/main/public/logo/span3.webp"
+    },
+    {
+      "title": "Span4",
+      "poster": "https://raw.githubusercontent.com/linor5757/getout/main/public/logo/span4.webp"
+    },
+    {
+      "title": "Span5",
+      "poster": "https://raw.githubusercontent.com/linor5757/getout/main/public/logo/span5.webp"
+    },
+    {
+      "title": "Span6",
+      "poster": "https://raw.githubusercontent.com/linor5757/getout/main/public/logo/span6.webp"
+    },
+    {
+      "title": "Span7",
+      "poster": "https://raw.githubusercontent.com/linor5757/getout/main/public/logo/span7.webp"
+    }
+  ]
+}
